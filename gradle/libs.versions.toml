@@ -8,7 +8,7 @@ androidx-appcompat = "1.6.0"
 [libraries]
 kotlin-plugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
 android-gradle = { module = "com.android.tools.build:gradle", version.ref = "android.gradle" }
-maven-publish-plugin = "com.vanniktech:gradle-maven-publish-plugin:0.15.1"
+maven-publish-plugin = "com.vanniktech:gradle-maven-publish-plugin:0.24.0"
 
 androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "androidx-core" }
 androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "androidx-appcompat" }
