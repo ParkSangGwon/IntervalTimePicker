@@ -11,7 +11,7 @@ IntervalTimePicker can **control interval of minutes** using TimePicker.
 ## Setup
 
 ### Gradle
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.ParkSangGwon/intervalTimePicker.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.ParkSangGwon%22%20AND%20a:%intervalTimePicker%22)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ParkSangGwon/intervaltimepicker.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.ParkSangGwon%22%20AND%20a:%intervaltimepicker%22)
 
 ```gradle
 
